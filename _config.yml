@@ -18,13 +18,13 @@ description: "avenaradio ist mein blog"
 baseurl: "/blog/_site" ########################################## MUST BE UPDATED
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://avenaradio.github.io/blog"
+url: "https://avenaradio.github.io/blog/_site"
 
 # Favicon
-favicon: images/favicon.png
+favicon: assets/favicon/
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
+#google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation: ########################################## ALL MUST BE UPDATED with additional slash
