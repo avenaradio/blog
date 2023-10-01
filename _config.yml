@@ -18,7 +18,7 @@ description: "avenaradio ist mein blog"
 baseurl: "/blog" ########################################## MUST BE UPDATED
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://avenaradio.github.io/blog"
+url: "https://avenaradio.github.io"
 
 # Favicon
 favicon: assets/favicon/
@@ -29,11 +29,11 @@ favicon: assets/favicon/
 # Site navigation - each item must have a title and a url.
 navigation: ########################################## ALL MUST BE UPDATED with additional slash
   - text: Home
-    url: /blog/_site/ 
+    url: /blog/
   - text: Kategorien
-    url: /blog/_site/tags/
+    url: /blog/tags/
   - text: Über
-    url: /blog/_site/about/
+    url: /blog/about/
 
 # The shortname for your Disqus site to enable comments.
 #disqus: justgoodthemes
