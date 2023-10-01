@@ -3,11 +3,11 @@
     <channel>
         <title>avenaradio</title>
         <description>avenaradio ist mein blog</description>
-        <link>https://avenaradio.github.io/blog/</link>
-        <atom:link href="https://avenaradio.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Oct 2023 03:22:40 +0200</pubDate>
-        <lastBuildDate>Sun, 01 Oct 2023 03:22:40 +0200</lastBuildDate>
-        <generator>Jekyll v4.0.1</generator>
+        <link>https://avenaradio.github.io/</link>
+        <atom:link href="https://avenaradio.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 01 Oct 2023 04:24:10 +0200</pubDate>
+        <lastBuildDate>Sun, 01 Oct 2023 04:24:10 +0200</lastBuildDate>
+        <generator>Jekyll v3.9.3</generator>
         
     </channel>
 </rss>
