@@ -15,7 +15,7 @@ title: "avenaradio"
 description: "avenaradio ist mein blog"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "" ########################################## MUST BE UPDATED
+#baseurl: "" ########################################## MUST BE UPDATED
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://avenaradio.github.io"
