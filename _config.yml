@@ -30,16 +30,16 @@ favicon: assets/favicon/
 navigation: ########################################## ALL MUST BE UPDATED with additional slash
   - text: Home
     url: /blog/_site/ 
-  - text: Tags
+  - text: Kategorien
     url: /blog/_site/tags/
-  - text: About
+  - text: Über
     url: /blog/_site/about/
 
 # The shortname for your Disqus site to enable comments.
 #disqus: justgoodthemes
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: '#43d6d6'
 
 # Site footer
 footer:

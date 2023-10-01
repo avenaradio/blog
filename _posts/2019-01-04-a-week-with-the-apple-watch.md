@@ -1,5 +1,6 @@
 ---
 layout: post
+author: "avenaradio"
 title: "Review: A Week With the Apple Watch"
 description: "The Apple Watch is a smartwatch developed by Apple Inc."
 date: 2019-01-04
